@@ -8,5 +8,6 @@ disable-model-invocation: false
  - Users wants to remove unnecessary code and simplify 1-2 files, or a small number of files that are loosely related.
 
 # ACTION
+ - Optionally invoke `remind-pystyle` skill
 
 # VERIFICATION
